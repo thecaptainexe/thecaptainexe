@@ -1,6 +1,6 @@
 ![Slayd Development Shutdown](https://img.shields.io/badge/Slayd%20Development%20Has%20Been%20Shutdown-%20Migrated%20to%20CaptainEXE%20Studios-red?style=for-the-badge)
 
-# 👋 Hey, I’m Captain.EXE
+# 👋 Hey, I’m Captain
 
 > **Independent Developer | System Architect | Digital Creator**
 
@@ -25,23 +25,13 @@ I build high-performance systems, automation tools, interactive web experiences,
 
 ---
 
-## 📡 Active Projects
-
-| Project                                                       | Description                                                    | Status         |
-| :------------------------------------------------------------ | :------------------------------------------------------------- | :------------- |
-| [**CaptainEXE Radio**](https://youtube.com/@itscaptainexe)    | 24/7 music streams, programming content, and creative projects | 🟢 Operational |
-| [**BatteryFlux**](https://github.com/itscaptainexe)           | Advanced monitoring and system analytics platform              | 🧪 Beta        |
-| [**SteadyPing**](https://github.com/itscaptainexe/SteadyPing) | Stable ultrasonic sensor processing library for Arduino        | 🚀 Active      |
-
----
-
 ## 🚀 Featured Work
 
 | Repository                                                        | Description                                         | Stack         |
 | :---------------------------------------------------------------- | :-------------------------------------------------- | :------------ |
-| [**CaptainEXE Website**](https://captainexe.vercel.app)           | Official personal hub and experimental web platform | HTML, CSS, JS |
-| [**HTML-Library**](https://github.com/itscaptainexe/HTML-library) | Reusable open-source UI and frontend snippets       | Frontend      |
-| [**Pro-Auth**](https://github.com/itscaptainexe/pro-auth)         | Browser-based authentication system with QR support [BETA] | JavaScript    |
+| [**CaptainEXE Website**](https://thecaptainexe.me)                | Official personal hub and experimental web platform | HTML, CSS, JS |
+| [**HTML-Library**](https://github.com/thecaptainexe/HTML-library) | Reusable open-source UI and frontend snippets       | Frontend      |
+| [**Pro-Auth**](https://github.com/thecaptainexe/pro-auth)         | Browser-based authentication system with QR support [BETA] | JavaScript    |
 
 ---
 
