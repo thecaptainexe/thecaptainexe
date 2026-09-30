@@ -20,7 +20,6 @@ I build high-performance systems, automation tools, interactive web experiences,
 
 * 🛠️ **Full-Stack Development:** Building scalable systems using JavaScript, Java, Lua, and web technologies.
 * 📡 **Automation & Infrastructure:** Persistent hosting, uptime systems, GitHub Actions automation, and monitoring tools.
-* 🎵 **Digital Media & Streaming:** Maintaining the CaptainEXE 24/7 live music and content ecosystem.
 * 🎨 **Creative Development:** Interactive websites, UI systems, visual effects, and experimental concepts.
 
 ---
@@ -44,8 +43,8 @@ I build high-performance systems, automation tools, interactive web experiences,
 ## 📫 Connect
 
 * **YouTube:** [@itscaptainexe](https://youtube.com/@itscaptainexe)
-* **Website:** [captainexe.vercel.app](https://captainexe.vercel.app)
-* **GitHub:** [github.com/itscaptainexe](https://github.com/itscaptainexe)
+* **Website:** [captainexe.me](https://captainexe.me)
+* **GitHub:** [github.com/thecaptainexe](https://github.com/thecaptainexe)
 
 ---
 
